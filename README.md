@@ -1,0 +1,2 @@
+# Python-Stock-Price-Analysis-Exploring-Trends-in-S-P-Stocks-with-a-Focus-on-Apple-Inc.
+In this project, I delved into the world of financial data analysis using Python, focusing on the stock prices of S&amp;P companies, with a special emphasis on Apple Inc. Through meticulous analysis and visualization techniques, I uncovered valuable insights into price movements, trends, and correlations among stocks within the S&amp;P index.
